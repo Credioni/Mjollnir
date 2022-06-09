@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.vs/
+.ipynb_checkpoints/
+*.pyc
+venv*/
+
+*.csv
+__pycache__/
+dist/
+*.egg-info/
+build/
+
+## Project specific
